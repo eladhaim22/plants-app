@@ -1,0 +1,7 @@
+{
+  "name": "plantsApp",
+  "displayName": "plantsApp",
+  "expo": {
+    "sdkVersion": "23.0.0"
+  }
+}
